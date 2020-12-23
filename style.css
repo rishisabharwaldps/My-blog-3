@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: lawngreen;
+}
+
+h1 {
+    color: blue;
+}
+
+img {
+    height: 20px;
+    width: 35px;
+}
+
+div {
+    margin: 15px;
+}
+
+.line {
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
+
